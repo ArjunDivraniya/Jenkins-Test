@@ -4,5 +4,7 @@ public class Main {
         System.out.println("We Are Test jenkins");
         System.out.println("From VSCode");
         System.out.println("From GitHub");
+        System.out.println("From Jenkins");
+        System.out.println("From Local Machine");
     }
 }
