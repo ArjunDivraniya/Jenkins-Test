@@ -5,6 +5,6 @@ public class Main {
         System.out.println("From VSCode");
         System.out.println("From GitHub");
         System.out.println("From Jenkins");
-        System.out.println("From AWS Ubuntu 2 Machine");
+        System.out.println("From Local Machine");
     }
 }
